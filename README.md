@@ -1,4 +1,4 @@
-# Proyecto para Cloud Computing
+# Ejercicios para Cloud Computing
 
 Ejercicios asignatura Cloud Computiong
 
