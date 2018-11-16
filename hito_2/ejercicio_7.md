@@ -19,3 +19,6 @@ https://github.com/danielbc09/spring_heroku
 
 Finalmente se configura heroku para que utilice el repositorio de github en la sección de despliegue, 
 ademas se configura que la aplicación se despliegue solo cuando los test pasen.
+
+
+![heroku_deploy](https://user-images.githubusercontent.com/24718808/48613663-afdd2880-e98c-11e8-9358-392e838ba1b9.png)
